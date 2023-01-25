@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902991610927",
+    "firebase_url": "https://odyssey-f9163-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "odyssey-f9163",
+    "storage_bucket": "odyssey-f9163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902991610927:android:216f39f9f6464d1c19f2da",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902991610927-8tn3t9lj216h6s37e0c0fu90ung73its.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIsmonmuU6teZDzxGEWGIpA56Htc-Rqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902991610927-8tn3t9lj216h6s37e0c0fu90ung73its.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
