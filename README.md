@@ -2,7 +2,7 @@
 
 Designed and developed an intuitive app that enables seamless navigation to multiple event venues on campus. The app features interactive maps and event schedule updates, providing the organizing committee with a comprehensive tool to manage all events easily.
 
-# Teck Stack:
+# Tech Stack:
 * Flutter
 * Firebase
 
